@@ -3,7 +3,7 @@
 # code
 
 - [基础](http://taolangwu.cn/MyKnowledgeSystemPlus/#/note/code/base/base_index)
-- [进阶](http://taolangwu.cn/MyKnowledgeSystemPlus/#/note/code/base/advance_index)
+- [进阶](http://taolangwu.cn/MyKnowledgeSystemPlus/#/note/code/advance/advance_index)
 
 # life
 
